@@ -1,2 +1,2 @@
-const botoes = document.querySelectorAll("but
+const botoes = document.querySelectorAll("button")
     console.log(botoes)
